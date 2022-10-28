@@ -30,8 +30,7 @@
   <h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
     <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
-    
-  
+    <></>  
     <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/>
   </div>
   
