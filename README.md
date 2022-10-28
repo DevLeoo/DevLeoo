@@ -18,19 +18,21 @@
    <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   
   <img align="center" alt="Leonardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-</div
+</div>
   
   <br><h4 style="font-weight: bold">Main Cloud Services:</h4>
  <div style="display: inline_block">
      </div>
    <img align="center" alt="Leonardo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
    
-  <br><h4 style="font-weigth: bold">Frameworks:</h4>
+  <br>
+  
+  <h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
     <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
 
-    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"/>
-  </div>
+    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
+</div>
   
   
  <h2>Projetos:</h2>
