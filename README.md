@@ -8,8 +8,6 @@
   <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   
-  <img align="center" alt="Leonardo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  
   <img align="center" alt="Leonardo-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
@@ -30,21 +28,16 @@
   <br><h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
     <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
-  </div><br/>
+  </div>
    <div style="display: inline_block">
-    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/nestjs.svg"/>
+    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"/>
   </div>
   
   
  <h2>Projetos:</h2>
   
   <ul>
-    <li><h3><a href="https://fluxovacinacaocovid.web.app/" target="_blank">Fluxo Vacinação Covid</a></h3></li>
-      <ul>
-        <li><h4><a href="https://recomendacao-cidades.herokuapp.com/">Recommendation-System-for-Cities-to-Increase-the-Flow-Vaccination</a></h4></li>
-      </ul>
-    <li><h3>Image Fossil Classification</h3></li>
-    
+    <li><h3><a href="https://github.com/DevLeoo/data-science-portfolio" target="_blank">Data Science Portfolio</a></h3></li>
   </ul><br/>
   
    <h2>Contacts:</h2>
