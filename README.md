@@ -28,7 +28,7 @@
   <br>
   
   <h4 style="font-weigth: bold">Frameworks:</h4>
-  <div style="display: inline_block">
+  <div>
     <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
     <br/>
     <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
@@ -36,7 +36,6 @@
   
   
  <h2>Projetos:</h2>
-  
   <ul>
     <li><h3><a href="https://github.com/DevLeoo/data-science-portfolio" target="_blank">Data Science Portfolio</a></h3></li>
   </ul><br/>
