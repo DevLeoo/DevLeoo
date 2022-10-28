@@ -6,16 +6,18 @@
 <h4 style="font-weight: bold">Main programming languages:</h4>
 <div style="display: inline_block">
   <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Leonardo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   
   <img align="center" alt="Leonardo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   
-  <img align="center" alt="Leonardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Leonardo-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 <br><h4 style="font-weight: bold">Main SGBD:</h4>
 <div style="display: inline_block">
-  <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Leonardo-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  
+   <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   
   <img align="center" alt="Leonardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div
@@ -27,8 +29,11 @@
    
   <br><h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
-    <img align="center" alt="Leonardo-Spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
+    <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
   </div><br/>
+   <div style="display: inline_block">
+    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nestjs/nestjs-icon.svg"/>
+  </div>
   
   
  <h2>Projetos:</h2>
