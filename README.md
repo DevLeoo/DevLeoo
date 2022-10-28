@@ -1,6 +1,6 @@
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSF&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLeoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoo&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 
 <h4 style="font-weight: bold">Main programming languages:</h4>
@@ -32,7 +32,7 @@
     <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
   </div><br/>
    <div style="display: inline_block">
-    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nestjs/nestjs-icon.svg"/>
+    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/nestjs.svg"/>
   </div>
   
   
