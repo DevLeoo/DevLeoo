@@ -25,7 +25,6 @@
      </div>
    <img align="center" alt="Leonardo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
    
-  <br>
   
   <h4 style="font-weigth: bold">Frameworks:</h4>
   <div style="display: inline_block">
