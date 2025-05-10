@@ -3,30 +3,36 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoo&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 
-<h4 style="font-weight: bold">Main programming languages:</h4>
+<h2 style="font-weight: bold"></h2>
+<ul>
+  <li>Software Engineering</li>
+  <li>Automated Testing</li>
+  <li>Software Architecture</li>
+</ul>
+
+<h2 style="font-weight: bold">Main programming languages:</h2>
 <div style="display: inline_block">
   <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Leonardo-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
 </div>
 
 
-<br><h4 style="font-weight: bold">Main SGBD:</h4>
+<br><h2 style="font-weight: bold">Main SGBD:</h2>
 <div style="display: inline_block">
   <img align="center" alt="Leonardo-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  
-   <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  
+  <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Leonardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
   
-  <br><h4 style="font-weight: bold">Main Cloud Services:</h4>
+  <br><h2 style="font-weight: bold">Main Cloud Services:</h2>
  <div style="display: inline_block">
      </div>
    <img align="center" alt="Leonardo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
    
   
-  <h4 style="font-weigth: bold">Frameworks:</h4>
+  <h2 style="font-weigth: bold">Frameworks:</h2>
   <div style="display: inline_block">
     <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
     </>  
