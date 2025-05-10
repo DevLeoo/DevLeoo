@@ -39,12 +39,6 @@
     <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/>
   </div>
   
-  
- <h2>Projetos:</h2>
-  <ul>
-    <li><h3><a href="https://github.com/DevLeoo/data-science-portfolio" target="_blank">Data Science Portfolio</a></h3></li>
-  </ul><br/>
-  
    <h2>Contacts:</h2>
      <div>
        <a href="https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/"   target="_blank"><img align="center" alt="Leonardo-Linkedin" height="40" width="40"           src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></a>
