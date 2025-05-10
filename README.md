@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoo&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 
-<h2 style="font-weight: bold"></h2>
+<h2 style="font-weight: bold">Enthusiast: </h2>
 <ul>
   <li>Software Engineering</li>
   <li>Automated Testing</li>
