@@ -1,48 +1,56 @@
-<div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLeoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoo&layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
+<h1 align="center">Hi everybody, it's Leo!</h1>
 
-<h2 style="font-weight: bold">Enthusiast: </h2>
-<ul>
-  <li>Software Engineering</li>
-  <li>Automated Testing</li>
-  <li>Software Architecture</li>
-</ul>
+### Here's some stuff about me:
 
-<h2 style="font-weight: bold">Main programming languages:</h2>
-<div style="display: inline_block">
-  <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Leonardo-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Leonardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
+- 💻 I'm a senior Software Engineer
+- 📚 I'm studying Computer Science
+- 🌍 I'm from Brazil
+- ⚙️ Interested in Web Development, Software Engineering, and Software Architecture
+- 📬 Find me on [Linkedin](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/?locale=en_US) or just [email me](mailto:leonardo.leotc@gmail.com)!
+
+## 📫 Contact
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/?locale=en_US" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:leonardo.leotc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
+## 🧰 Tech Stack
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> 
 
-<br><h2 style="font-weight: bold">Main SGBD:</h2>
-<div style="display: inline_block">
-  <img align="center" alt="Leonardo-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Leonardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Leonardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="GoLang" /> 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgresSQL" /> 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> 
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
 </div>
-  
-  <br><h2 style="font-weight: bold">Main Cloud Services:</h2>
- <div style="display: inline_block">
-     </div>
-   <img align="center" alt="Leonardo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-   
-  
-  <h2 style="font-weigth: bold">Frameworks:</h2>
-  <div style="display: inline_block">
-    <img align="center" alt="Leonardo-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/react/react-original.svg"/>
-    </>  
-    <img align="center" alt="Leonardo-Nest" height="30" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/>
-  </div>
-  
-   <h2>Contacts:</h2>
-     <div>
-       <a href="https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/"   target="_blank"><img align="center" alt="Leonardo-Linkedin" height="40" width="40"           src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/></a>
-  <a href="https://www.instagram.com/_leotc/"   target="_blank"><img align="center" alt="Leonardo-Linkedin" height="40" width="40"           src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
-     </div>
 
-****
+##
+
+<a href=https://github.com/DevLeoo>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=DevLeoo&custom_title=My%20GIthub%20Stats%21&theme=github_dark&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoo&custom_title=Which%20languages%20I%20use%20the%20most%3F&theme=github_dark&hide=ampl,tex&layout=compact&langs_count=6" />
+</a>
+
+![Snake animation](https://github.com/kaiogerhardt/kaiogerhardt/blob/output/github-contribution-grid-snake.svg)
