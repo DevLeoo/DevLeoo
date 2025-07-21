@@ -6,7 +6,7 @@
 - 📚 I'm studying Computer Science
 - 🌍 I'm from Brazil
 - ⚙️ Interested in Web Development, Software Engineering, and Software Architecture
-- 📬 Find me on [Linkedin](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/?locale=en_US) or just [email me](mailto:leonardo.leotc@gmail.com)!
+- 📬 Find me on [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/?locale=en_US) or just [email me](mailto:leonardo.leotc@gmail.com)!
 
 ## 📫 Contact
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
