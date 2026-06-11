@@ -1,4 +1,5 @@
-<h1 align="center">Hi everybody, it's Leo!</h1>
+<h1 align="center">Hi there, it's Leo!</h1>
+
 
 ### Here's some stuff about me:
 
@@ -46,3 +47,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
 </div>
 
+##
+
+<a href=https://github.com/DevLeoo>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=DevLeoo&custom_title=My%20GIthub%20Stats%21&theme=github_dark&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoo&custom_title=Which%20languages%20I%20use%20the%20most%3F&theme=github_dark&hide=ampl,tex&layout=compact&langs_count=6" />
+</a>
+
+![Snake animation](https://github.com/DevLeoo/DevLeoo/blob/output/github-contribution-grid-snake.svg)
