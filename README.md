@@ -3,7 +3,7 @@
 
 ### Here's some stuff about me:
 
-- 💻 I'm a senior Software Engineer
+- 💻 I'm a senior Software Engineer working as a Tech Lead
 - 📚 I'm studying Computer Science
 - 🌍 I'm from Brazil
 - ⚙️ Interested in Web Development, Software Engineering, and Software Architecture
