@@ -12,7 +12,7 @@
 
 ## 📫 Contact
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/leonardo-teixeira-c%C3%A2ndido-286065191/?locale=en_US" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-teixeira-candido/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
